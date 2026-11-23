@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="bloomberg.ae" tvg-name="Bloomberg" group-title="BeIN Entertainment",Bloomberg
 http://tv2ip.nl:2095/live/734824175695/183317487561/1883727
 #EXTINF:-1 tvg-id="alaraby.eg" tvg-name="Al Araby 2 HD" group-title="BeIN Entertainment",Al Araby 2 HD
