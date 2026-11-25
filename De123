@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+⁰#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 #EXTINF:-1 group-title="|AR| ROTANA | ART",##### ROTANA / ART #####
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257294&extension=ts
 #EXTINF:-1 group-title="|AR| ROTANA | ART",AR - ROTANA COMEDY HD
@@ -53,3 +53,1361 @@ http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=665317&exten
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=665316&extension=ts
 #EXTINF:-1 group-title="|AR| ROTANA | ART",AR - ART AFLAM 1
 http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=665315&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",##### ABU DHABI SPORTS #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=756852&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257489&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257490&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257491&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT EXTRA 1 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=608165&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT EXTRA 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=608164&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT ASIA 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=676456&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORT ASIA 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=676457&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584508&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584507&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584506&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584505&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - ABU DHABI SPORT 4 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584504&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORTS 2 HEVC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584502&extension=ts
+#EXTINF:-1 group-title="|AR| ABU DHABI SPORTS",AR - AD SPORTS 3 HEVC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584501&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - ADEL EMAM MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006905&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - ADEL EMAM MOVIES 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006906&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - AHMED EL SAKKA MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006910&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - AHMED HELMY MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006909&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - AHMED ZAKI MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006907&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - AHMED ZAKI MOVIES 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006908&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - TOM CRUISE MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006903&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - TOM CRUISE MOVIES 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006904&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - TOM HANKS MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006901&extension=ts
+#EXTINF:-1 group-title="|AR| ACTORS 4K",AR - TOM HANKS MOVIES+
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006902&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| AL FAJER",##### AL FAJER #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=757138&extension=ts
+#EXTINF:-1 group-title="|AR| AL FAJER",AR - SALAM TV HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=722811&extension=ts
+#EXTINF:-1 group-title="|AR| AL FAJER",AR - AJYAL TV HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=722810&extension=ts
+#EXTINF:-1 group-title="|AR| AL FAJER",AR - HORIYAA RIYADIA HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=722820&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ALGERIA",##### DZ - ALGERIA #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249861&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EN TV ALGERIE ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249834&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - A3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249841&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - CANAL ALGERIE *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249835&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - TAMAZIGH TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249839&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - TV CORAN *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249847&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ALMAARIFA TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556869&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - CANAL 6 ALGERIE *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249838&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - WATANIA TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556860&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ECHOROUK TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249843&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ENNAHAR TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249845&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AMOU YAZID
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=882208&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL HEDDAF TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457168&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - SAMIRA TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249848&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ECHOROUK NEWS *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249844&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - Zahra TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=656033&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - BEUR TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249858&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL HAYAT TV ALGERIE *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249860&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - BAHYA TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249855&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - BERBERE TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249859&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL DJAZAIRIA TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249854&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - El Djazair N1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556864&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AMOU YAZID TOFOLA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=716947&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AL MAGHARIBIA *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249856&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL BILAD TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249857&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AL ANIS TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=558042&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL FAJR DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=698790&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ALGERIA ONE TV HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1079359&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ALGERIA TV CORAN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249837&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ALGERIAN 4KIDS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=698792&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AL24 NEWS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=648877&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - DZAIR JANNAH
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249852&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - MISR QURAN KAREEM
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249846&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - TV5 MONDE STYLE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249836&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ALGÉRIE CANAL TV 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556868&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL FAJR DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=720724&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - BEUR TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556867&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AL SAHRAA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556861&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ELDJAZAIR N1 TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=573169&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL ADJWAA TV *
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=573168&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - EL DJAZAIRIA1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=249853&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - AL SALAM
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556862&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ - ALGERIE TV8 EDHAKIRA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=648876&extension=ts
+#EXTINF:-1 group-title="|AR| ALGERIA",DZ -  AL MAGHARIBIA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=753363&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908385&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",##### AMAZON PRIME #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908389&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON ACTION
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908388&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON CRIME
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908387&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON COMEDY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908384&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON MYSTERY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908386&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON WAR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908383&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON FAMILY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908382&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON MIXTA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908381&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON DIRECTO
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908380&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON DOCUMENTARY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908378&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON ARABI +
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908377&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON ARABI +2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908376&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON COMIC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908375&extension=ts
+#EXTINF:-1 group-title="|AR| AMAZON PRIME",AR - AMAZON KIDS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=908374&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",##### LEBANON LOW INTERNET #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924940&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ALJADEED TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924939&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MTV LEBANON LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924938&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - LBC INTERNATIONAL LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924937&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - LBC LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924936&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL LASDAH TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924935&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - NBN LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924934&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - OTV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924933&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ONE LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924932&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - TELELIBAN TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924931&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL MAYADEEN TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924930&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - IFILM ARABIC LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924929&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AGHANI LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924928&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ARABICA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924927&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MAZZIKA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924926&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",##### SYRIA LOW INTERNET #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924925&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SYRIA DRAMA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924924&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SYRIA SATELLITE LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924923&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SYRIA NEWS LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924922&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SAMA SYRIA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924921&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - LANA TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924920&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - NOOR AL SHAM LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924919&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SYRIA EDUCATION LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924918&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL ALAM SYRIA TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924917&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL KHABAR TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924916&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SOURYANA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924914&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SUBORO TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924913&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SUROYO TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924912&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",##### MBC LOW INTERNET #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924911&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC 1 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924910&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC 2 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924909&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC 3 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924908&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC 4 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924907&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC 5 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924906&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC ACTION LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924905&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC DRAMA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924904&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC DRAMA+ LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924903&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC BOLLYWOOD LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924902&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC IRAQ LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924901&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC MAX LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924900&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC MASER LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924899&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC MASER 2 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924898&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC PERSIA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924897&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - MBC FM LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924896&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",##### ROTANA LOW INTERNET #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924895&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA CINEMA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924894&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA CLASSIC LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924893&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA COMEDY LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924892&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA DRAMA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924891&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA MUSIC LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924890&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA CLIP LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924889&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ROTANA KHALIJEAH LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924888&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - RESSALA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924886&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",##### NEWS LOW INTERNET #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924885&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924884&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA MUBASHER LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924883&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA DOCUMENTARY LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924882&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA MUBASHER 2 LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924881&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL JAZEERA ENGLISH LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924880&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - RT ENGLISH LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924879&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - SKY NEWS LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924878&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - INEWS TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924877&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL AYAM TV LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924876&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - RT ARABIC LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924875&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - BBC ARABIC LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924874&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - BBCW LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924873&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL ARABIYA HADATH LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924872&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - ALHADATH ALYOUM LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924871&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - CNN LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924870&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC FULL SD",AR - AL ALAM LQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=924869&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",##### AR - KIDS TV #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582854&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MARAYA KIDS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1425947&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - ADNAN & LINA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006992&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - BILL & SEBASTIAN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006988&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - CARTOON NETWORK
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1007005&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - COCOMELON AR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006995&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - COCOMELON EN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006996&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MASHA & THE BEAR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006987&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MR BEAN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006997&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SHAUN THE SHEEP
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006989&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SPONGEBOB
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006991&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - TELETUBBIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006990&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - THA SMURFS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006993&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - THREE BEARS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006998&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - TOM & JERRY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006994&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - بطاريق مدغشقر
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1007000&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - قصص الآطفال
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1007004&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - قصص الآيات في القرآن
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1007003&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - قصص الأنبياء
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1007001&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - قصص الإنسان في القرآن
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1007002&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - ليث ذا كينج
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006999&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - NETFLIX KIDS 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=587703&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DISNEY+ 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584384&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DISNEY+ 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=584383&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - CHU CHU 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582853&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - CHU CHU 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582852&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MASHA AND THE BEAR HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582851&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SHAUN THE SHEEP HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582850&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - قصص الأيات في القرآن
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582849&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - عدنان و لينا
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582848&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - النمر المقنع
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582847&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - الرجل الحديدي
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582846&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - GULLI ARABIC 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582845&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SIRAG 1 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582843&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SIRAG 2 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582842&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - TOM AND JERRY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582841&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SASOKI KIDS 1 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582839&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MR BEAN KIDS 1 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582840&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - KIDS ISLAMIC 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582838&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - ROTANA KIDS 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582837&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MAJID KIDS 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582836&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - MAJID KIDS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582835&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - KTV KIDS HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582833&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SPACE TOON 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582832&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - CN ARABIC CARTOON ARABIC 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582831&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - TAHA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582830&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - ATFAL MAWAHEB
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582829&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - TOYOR BABY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582828&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - HODHOD ARABIC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582826&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - KOOGI TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582825&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SHEHAB TV 4K
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582824&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - SHEHAB TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582823&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - KARAMEESH
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582821&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - AMOU YAZID TOFOLA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=716948&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582820&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582819&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582818&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582817&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 5
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582816&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 6
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582815&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 7
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582814&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 8
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582813&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 9
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582812&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 10
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582811&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 11
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582810&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - DOROS 12
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582809&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - AKWAM KIDS 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582808&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - AKWAM KIDS 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582807&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - AKWAM KIDS 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582806&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC KIDS",AR - AKWAM KIDS 4 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=582805&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ARABIC VIP",##### UAE VIP #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=756861&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ABU DHABI NATIOANL GEO UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257321&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - NATIONAL GEO ABU DHABI
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257322&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AJMAN TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257749&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DUBAI SPORT2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257482&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DUBAI SPORT 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257483&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - YAS SPORT UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257484&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",##### QATAR  VIP #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=570340&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - RAYYAN UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=570335&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL RAYYAN AL QADEEM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=570334&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - QATAR TV HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=570339&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - QATAR 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=570338&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - QATAR TODAY 1 SOON
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=570337&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BIN OTHAIMEEN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377598&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL HAQEQA DAWALAH
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377593&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - MECCA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377591&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - IQRAA INTERNATIONAL
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=705319&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - IQRAA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377592&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALWAQIE TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377651&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL ITHAD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377587&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD QURAN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377594&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD EKHBARIE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377650&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD DOCUMENTARY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377649&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD AL TABEEAIYAH
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377648&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD  INFO
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377647&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD BASMAH
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377646&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD RAWDA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377645&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD TAGHAREED
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377644&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD RELIGIOUS SCIENCE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377643&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD SPACE TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377642&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ALMAJD GENERAL
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377641&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377616&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377615&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377614&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377613&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 5
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377612&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 6
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377611&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 7
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377610&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 8
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377609&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 9
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377608&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 10
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377607&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 12
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377605&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - DOROS 11
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=377606&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",##### MAURITANIA VIP #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257512&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL BARLEMANIA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257518&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL MOURITANIYA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257513&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - EL MAHADRA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257519&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ELMOURABITON TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257517&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - MAURITANIAN 2 TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257514&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - MAURITANIA ARRIADIA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257516&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - MAURITANIA ATHAGAVIA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257515&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - TANASUH TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257528&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",##### BAHRAIN VIP #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257712&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BAHRAIN INTERNATIONAL UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257714&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BAHRAIN QURAN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257716&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BAHRAIN SPORT 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257718&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BAHRAIN SPORT 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257719&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BAHRAIN UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257713&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL ADALAH TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257720&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - BAHRAIN LAWAL
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257715&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL MAAREF
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257717&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",##### OMAN VIP #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257734&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - OMAN CULTURE TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257738&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - OMAN TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257735&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - OMAN ALISTIQAMA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257737&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - OMAN LIVE TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=257736&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - AL KARAMA PRAISE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556874&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ABN SAT
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556873&extension=ts
+#EXTINF:-1 group-title="|AR| ARABIC VIP",AR - ISHTAR TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556871&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",##### BEIN ENTERTAINMENT #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862854&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES PREMIERE 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862853&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES ACTION 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862852&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES DRAMA 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862851&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES FAMILY 4 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862850&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN SERIES 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862849&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN SERIES 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862848&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN DRAMA HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862847&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN FOOD NETWORK HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862846&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN GOURMET HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862845&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN FATAFEAT HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862844&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN FOX MOVIES HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862841&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN FOX ACTION HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862840&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN STAR WORLD HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862838&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN BBC EARTH HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862837&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN TRAVEL HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862836&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN ANIMAL PLANET HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862835&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN NATIONAL GEO HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862834&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN NATIONAL GEO WILD HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862833&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN HGTV HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862832&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN BABY TV HD AR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862831&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN JEEM KIDS HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862830&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN BARAEM KIDS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862829&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN BOOMERANG HD AR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862826&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN ENTERTAINMENT",BEIN CARTOON NETWORK HD AR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=862824&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",##### AR - BEIN OD #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594506&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594505&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594504&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594503&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 4 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594502&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 5 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594501&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 6 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594500&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 7 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594499&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 8 MOVIES UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594498&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1030184&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1060628&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1060627&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 4 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1060626&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 KIDS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594497&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 KIDS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594496&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 KIDS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594495&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594494&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM HEVC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594493&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594492&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM SD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594491&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594489&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594488&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594486&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=594485&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",##### CY - COMEDY PLAY #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571842&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - ببساطة 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571843&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - ببساطة 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571844&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - وعدتني يا رفيقي
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571845&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - الواق الواق
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571846&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - الطواريد
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571847&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - الخربة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571848&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - اللعبة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571849&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - وش السعد
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571850&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - اللكوندة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571851&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - الوصية
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571852&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - إتنين في الصندوق
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571853&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - خلصانة بشياكة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571854&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - حشمت في البيت الأبيض
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571855&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - رجالة البيت
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571856&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مخرج 7
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571857&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - سيلفي 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571858&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - سيلفي 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571859&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - سيلفي 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571860&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - ضيعة ضايعة 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571861&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - ضيعة ضايعة 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571862&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - يوميات مدير عام 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571863&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - يوميات مدير عام 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571864&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مرايا99
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571865&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مرايا 2011
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571866&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - رامز قرش البحر
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571867&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - رامز واكل الجو
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571868&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - رامز تحت الأرض
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571869&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - بالعربي SNL 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571870&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - بالعربي SNL 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571871&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - بالعربي SNL 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571872&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - بالعربي SNL 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571873&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مسرح مصر 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571874&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مسرح مصر 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571875&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مسرح مصر 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571876&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مسرح مصر 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571877&extension=ts
+#EXTINF:-1 group-title="|AR| COMEDY PLAY",CY - مسرح مصر 5
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=571878&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",### DM - DRAMA PLAY ###
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575061&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - الجوكر
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575062&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - مقابلة مع السيد أدم
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575063&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - بروكار
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575064&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - وهم
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575065&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - ناس من ورق
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575066&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - دومينو
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575067&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - عناية مشددة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575068&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - حارة المشرقة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575069&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - دقيقة صمت
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575070&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أثر الفراشة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575071&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - شبابيك
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575072&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - سنة أولى زواج
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575073&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - كونتاك
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575074&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - سيرة الحب
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575075&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - عودة غوار
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575076&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - ليالي الصالحية
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575077&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - خان الحرير
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575078&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - الخوالي
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575079&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أيام شامية
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575080&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - زمن البرغوت 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575081&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - زمن البرغوت 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575082&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - خاتون 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575083&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - خاتون 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575084&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أهل الغرام 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575085&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أهل الغرام 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575086&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أهل الغرام 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575087&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أهل الغرام 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575088&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أهل الغرام 5
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575089&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أهل الغرام 6
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575090&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575091&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575092&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575093&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575094&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 5
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575095&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 6
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575096&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - باب الحارة 7
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575097&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - نسر الصعيد
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575098&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - فرقة ناجي عطالله
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575099&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - أرض النفاق
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575100&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - ولد الغلابة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575101&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - دكتور أمراض نسا
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575102&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - لدينا أقوال أخرى
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575103&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - فيفا أطاطا
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575104&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - دموع في عيون وقحة
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575105&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - رأفت الهجان 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575106&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - رأفت الهجان 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575107&extension=ts
+#EXTINF:-1 group-title="|AR| DRAMA PLAY",DM - رأفت الهجان 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=575108&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| EGYPT",##### EG - EGYPT TV #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620295&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL ASKANDARIA 5
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620291&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL GHAD TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620288&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ON SPORT MAX UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1424489&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ON SPORT PLUS FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1409710&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL AHLY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620292&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL DELTA MASR 6
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620289&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - PANORAMA FM
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620294&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - HYA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1283449&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL SHAMS 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1284099&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL SHAMS  HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1283450&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL HAYAT HD ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620287&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL HAYAT UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620286&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL HAYAT MUSALSALAT ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620284&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL HAYAT DRAMA SD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=719377&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL HIWAR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620283&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL KAHERA 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620282&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL KAHERA WE ALNASS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620281&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL KAHERA WA ALNAS PLUS 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620280&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL KANAL MASR 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620279&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL KHALIJ TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620278&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL MASRIYA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620276&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MEHWAR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620274&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ON TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=677335&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL NAHAR DRAMA ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620273&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL NAHAR ONE ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620272&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL OULA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620271&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL OULA MASRIA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620270&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL QANAT 9 TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620269&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL SAEED MASR 7
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620268&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ALTHANYA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620266&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - AL NAS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620264&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ALSHOUB TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=826753&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - CBC ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620253&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - CBC DRAMA ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620252&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - CBC SOFRA ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620251&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - CIMA TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620250&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - DMC DRAMA ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620243&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - DMC HD ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620242&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - DRAMA AL BADAWYA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620240&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - DMC
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620241&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - EGYPTIAN TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620239&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ELSHARQ TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=677440&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - EL MOLD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620238&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - EXTRA NEWS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620237&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MADRASETNA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620232&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MADRASTNA 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620231&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MASPERO ZAMAN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620230&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MEKAMELEEN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620228&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MISR ELBALD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620226&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MIX BEL ARABY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=763735&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - MIX HOLLYWOOD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620225&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE CINEMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620223&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE COMEDY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620222&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE CULTURE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620221&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620220&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE EDUCATION
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620219&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE FAMILY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620218&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE LIVE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620217&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE NEWS
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620216&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NILE TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620215&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - NOGOUM FM TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620213&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ONE MOVIES
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1145517&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ON DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620212&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ON E UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620211&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - ONE E
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620210&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - OSCAR TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620204&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - PANORAMA DRAMA 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620203&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - PANORAMA DRAMA 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620202&extension=ts
+#EXTINF:-1 group-title="|AR| EGYPT",EG - PANORAMA FILM
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=620201&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| GOBX GROUP",###### GOBX - GOBX GROUP ######
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602746&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - REELPX UNLIMITED
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1116394&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - REELPX FAMILY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1116393&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - REELPX COMEDY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1116392&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - REELPX ACTION
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1116379&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - REELPX CRIME
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1116378&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602745&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602744&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602743&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602742&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602741&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 3 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602740&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 4 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602739&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 4 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602738&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 5 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602737&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC 5 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602736&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602735&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602734&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC ACTION UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602733&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC ACTION HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602732&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC MASR 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602731&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC MASR 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602730&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC MASR 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602729&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC MASR 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602728&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC IRAQ UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602727&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC IRAQ HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602726&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA+ UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602725&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA+ HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602724&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC VARIETY UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602723&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC VARIETY HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602722&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - MBC MAX HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602721&extension=ts
+#EXTINF:-1 group-title="|AR| GOBX GROUP",GOBX - ZOOMOO HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=602701&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC ACTION
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006826&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC ACTION EN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006833&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC ADVENTURE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006832&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC ANIMATION
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006837&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC COMEDY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006828&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC COMEDY EN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006835&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006827&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC DRAMA EN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006834&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC FAMILY
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006831&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC HORROR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006829&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC THRILLER
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006830&extension=ts
+#EXTINF:-1 group-title="|AR| MAJESTIC 4K",AR - MAJESTIC THRILLER EN
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=1006836&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| MBC",##### AR - MBC #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250038&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250039&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250040&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 3
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250041&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 4
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250042&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 5 ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250043&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC DRAMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250044&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC DRAMA SD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=689593&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC IRAQ
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250048&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC ACTION
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250046&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC MAX
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250045&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC BOLLYWOOD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250047&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC MASR ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250049&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC MASR 2 ◉
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250050&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457188&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457187&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 3 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457186&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 4 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457185&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC 5 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457184&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC ELIFE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=657001&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC+ POWER UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=588347&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC+ POWER SPORT UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=593517&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC ACTION UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457180&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC BOLLYWOOD UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457179&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC DRAMA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457183&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC DRAMA PLUS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457182&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC FM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457173&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC FM
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=250051&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC IRAQ UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457178&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC MASER UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457177&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC MASER 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457176&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC MAX UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457181&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC PANORAMA FM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457174&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC VARIETY PLUS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=556858&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MBC PERSIA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=457175&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - MIX ONE
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=658851&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - ART HEKAYAT 1 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=559857&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - ART HEKAYAT 2 HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=559856&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - ART CINEMA
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=559855&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - ART AFLAM 2
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=559854&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - ART AFLAM 1
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=559853&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - WEYYAK DRAMA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=593686&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - WEYYAK ACTION UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=593685&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - WEYYAK NAWAEM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=593684&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - WEYYAK MIX UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=593683&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - TEN TV
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=593682&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",##### SHAHID #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784132&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID TAREEKHI HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784131&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID TAREEKHI FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784130&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID HASSINO HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784129&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID HASSINO FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784128&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID AL MASRAH HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784117&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID RASHED AL MAJED HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784116&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID MOHAMMED ABDOU FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784115&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID MEETIG FROM ZERO HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784114&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID GHUMUD FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784113&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID TOP CHEF HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784112&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID KOREAN HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784111&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID KOREAN FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784110&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID BOLLYWOOD HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784109&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID BOLLYWOOD FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784108&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID GAMES HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784107&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID AL SHARQ FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784106&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID AL ZAEEM HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784105&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID AL ZAEEM FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784104&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID AB TALKS HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784103&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID ABDULMAJEED ABDULLAH HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784102&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID MASR HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784099&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR - SHAHID MASR FHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=784098&extension=ts
+#EXTINF:-1 group-title="|AR| MBC",AR| SHAHID WI FI HD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=815889&extension=ts
+
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| OSN",##### OSN GROUP #####
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724292&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - JAWWY TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724291&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - YAHALA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724290&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - YAHALA AFLAM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724289&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - YAHALA BIL ARABI UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724288&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - ALYAWM UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724285&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MOVIES HORROR
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724284&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - FAN UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724283&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - CINEMA 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724282&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - CINEMA 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724281&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - ART HEKAYAT 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724280&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - ART HEKAYAT 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724279&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - ART AFLAM 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724278&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - ART AFLAM 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724277&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - ART CINEMA UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724276&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MUSALSALAT 1 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=904287&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MUSALSALAT 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=904288&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - BLOOMBERG UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724274&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - COMDEY UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724273&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - DISCOVERY IDX UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724272&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - DISCOVERY SCIENCE UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724271&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - DISCOVERY UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724270&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - DISNEY CHANNEL UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724269&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - DISNEY JUNIOR UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724268&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - E UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724267&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - FAMILY UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724266&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - GINX ESPORTS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724264&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - HISTORY 2 UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724263&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - HISTORY UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724262&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - KID ZONE TV UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724261&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - KIDS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724260&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - LIVING UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724259&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MEZZE UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724258&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MOONBUG KIDS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724257&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MOVIES ACTION UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724256&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MOVIES HOLLYWOOD UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724255&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - MOVIES PREMIERE UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724254&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - NEWS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724251&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - NICK JR. UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724250&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - NICKELODEON UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724249&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - NICKTOONS UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724248&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - SERIES PRIME UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724247&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - SHOWCASE UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724246&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - TFC UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724243&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - TLC UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724242&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - VH UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724241&extension=ts
+#EXTINF:-1 group-title="|AR| OSN",OSN - W UHD
+http://vision-ott.net:80/play/live.php?mac=00:1a:79:29:51:54&stream=724240&extension=ts
